@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Miguel9669
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c# and js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Miguel9669 and i kinda like to write code(who knows why)
+- I'm about to start my journey in C#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+- 📫 How to reach me: For now anywhere
 
 <!---
 Miguel9669/Miguel9669 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
